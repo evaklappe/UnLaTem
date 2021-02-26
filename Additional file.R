@@ -165,7 +165,7 @@ datasetNew$checkScreening=FALSE
 datasetNew$checkAdvies=FALSE
 datasetNew$checkAnalyse=FALSE
 
-# fill columns with true if the Factualities are true
+# fill columns with true if the Uncertainties are true
 datasetNew$checkUncertaintyD[checkUncertainty]=TRUE
 datasetNew$checkUncertainty5D[checkUncertainty5]=TRUE
 datasetNew$checkUncertainty12D[checkUncertainty12]=TRUE
